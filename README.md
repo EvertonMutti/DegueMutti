@@ -33,3 +33,5 @@
   <p>DiminuiPorc(arg1, arg2):</p>
   <p>arg1 = Variable that will Decrease in percentage</p>
   <p>arg2 = Percentage that will be used</p>
+  
+  <p>Note: This documentation was made with the help of Google Translate.</p>
