@@ -1,5 +1,6 @@
 # My-Module
 <h2>This module is intended to make some tasks more practical, such as:</h2>
+<h2>*[Note: This documentation was made with the help of Google Translate.]*</h2>
 <br>
 <h2>StringToNumber:</h2>
   <p>Converts a string to a number by the most correct typing, example:
@@ -34,4 +35,4 @@
   <p>arg1 = Variable that will Decrease in percentage</p>
   <p>arg2 = Percentage that will be used</p>
   
-  <p>Note: This documentation was made with the help of Google Translate.</p>
+
