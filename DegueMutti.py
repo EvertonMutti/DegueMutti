@@ -88,7 +88,6 @@ def VerificaFloat(n1):
 
 def VerificaNumero(n1):
     """
-    
     Parameters
     ----------
     n1 : Int or Float
@@ -103,19 +102,18 @@ def VerificaNumero(n1):
 
 def AumentaPorc(n1, porc = 1):
     """
-    
+    Aumenta o número em porcentagem
 
     Parameters
     ----------
-    n1 : TYPE
-        DESCRIPTION.
-    porc : TYPE, optional
-        DESCRIPTION. The default is 1.
+    n1 : Int or Float
+        O número que será aumentado.
+    porc : Int
+        A porcentagem. The default is 1.
 
     Returns
     -------
-    n1 : TYPE
-        DESCRIPTION.
+    n1 : Int or Float
 
     """
     porc = porc / 100
@@ -125,19 +123,18 @@ def AumentaPorc(n1, porc = 1):
 
 def DiminuiPorc(n1, porc = 0):
     """
-    
+    Diminui o número em porcentagem
 
     Parameters
     ----------
-    n1 : TYPE
-        DESCRIPTION.
-    porc : TYPE, optional
-        DESCRIPTION. The default is 0.
+    n1 : Int or Float
+        O número que será aumentado.
+    porc : Int
+        A porcentagem. The default is 0.
 
     Returns
     -------
-    n1 : TYPE
-        DESCRIPTION.
+    n1 : Int or Float
 
     """
     porc = porc / 100
